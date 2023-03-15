@@ -1,0 +1,46 @@
+#HeaderSection{
+    background-color:#0a0a0a;
+}
+
+#navbarSupportedContent ul li a{
+    color: white;
+    font-weight: 500;
+    font-size: 16px;
+} 
+
+#navbarSupportedContent ul li a:hover{
+    color: red;
+}
+
+#navbarSupportedContent ul{
+    margin-left: 100px;
+}
+.navbar-brand img{
+    margin: -9px;
+    width: 224px;
+}
+
+
+body{
+    background-image: url("./images/login.jpeg");
+    background-repeat: no-repeat;
+    background-size:100% 700px;
+}
+
+#form{
+    background: transparent;
+    border: 1px solid white;
+
+}
+
+#form div input{
+    background: transparent;
+}
+
+#form div label{
+
+    color: white;
+}
+#form div input::placeholder{
+    color: white;
+}
